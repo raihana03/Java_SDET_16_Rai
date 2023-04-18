@@ -1,0 +1,22 @@
+Swtich statement:
+    in switch statements once variable is checked for multiple values.
+    functionality is very similar to else- if statements but switch statements have a lot limitations.
+Why we should use switch statements:
+    they are very fast.
+Syntax:
+
+switch(variable we want to check){
+case value1:
+    sout;
+    break;
+case value2:
+    sout;
+    break;
+    default:
+        sout;
+}
+
+Limitations of switch statements
+    1. Only byte short int String and char data types are allowed
+    2. we can't use the relational operators (== != > < >= <=)
+    2. We can't use the logical operators as well.
